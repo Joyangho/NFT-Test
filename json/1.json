@@ -1,0 +1,37 @@
+{
+  "name": "SABU Test #1",
+  "description": "SABU Test",
+  "image": "ipfs://QmWxX1ryXJ1MrKAerqPz8F3wx8VduNLj4EXbhKo5RV3Z2E/1.png",
+  "dna": "7f618a71ad09b243f810941154dfdb47e40b5239",
+  "edition": 1,
+  "date": 1669856135967,
+  "creator": "SABU",
+  "artist": "Surplusgirl",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Final Table"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Human B"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "A"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Blue sleeveless"
+    },
+    {
+      "trait_type": "COMMENT",
+      "value": "Nothing"
+    }
+  ],
+  "compiler": "High Run Poker Club"
+}

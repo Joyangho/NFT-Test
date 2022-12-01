@@ -1,0 +1,37 @@
+{
+  "name": "SABU Test #4",
+  "description": "SABU Test",
+  "image": "ipfs://QmWxX1ryXJ1MrKAerqPz8F3wx8VduNLj4EXbhKo5RV3Z2E/4.png",
+  "dna": "7a9c867061a5fe690e0763dbb381e03efdef6f03",
+  "edition": 4,
+  "date": 1669856137835,
+  "creator": "SABU",
+  "artist": "Surplusgirl",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Final Table"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Human C"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Concentration"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Frizzy hair"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Protective clothing"
+    },
+    {
+      "trait_type": "COMMENT",
+      "value": "Raise"
+    }
+  ],
+  "compiler": "High Run Poker Club"
+}
