@@ -1,0 +1,37 @@
+{
+  "name": "High Run Poker Club #1",
+  "description": "High Run Poker Club NFTs made with Ethereum is special digital collectibles NFT for 10,000. The Community for smart poker players begins now!",
+  "image": "ipfs://QmdHZAVWb9FA4nhA4AiPiA4CcgEoHu8Ji1yiAQg5Qpxhw7/1.png",
+  "dna": "9416943f4cfebc3919062b3d904a509cdc66d97d",
+  "edition": 1,
+  "date": 1669854163512,
+  "creator": "SABU",
+  "artist": "Surplusgirl",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Final Table"
+    },
+    {
+      "trait_type": "TYPE",
+      "value": "Human B"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "White cap"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Muffler"
+    },
+    {
+      "trait_type": "COMMENT",
+      "value": "Lucky Guy"
+    }
+  ],
+  "compiler": "High Run Poker Club"
+}
